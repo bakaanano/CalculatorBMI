@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator BMI</string>
+    <string name="hg">Height (m)</string>
+    <string name="wg">Weight (Kg)</string>
+    <string name="btnbc">Back</string>
+    <string name="btnnx">Next</string>
+    <string name="btnlg">Logout</string>
+    <string name="category">Category: </string>
+    <string name="clc">Calculate</string>
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+</resources>
